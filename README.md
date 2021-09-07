@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @thxnwa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-thxnwa/thxnwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            .dino {
+                background-image: url("b2d.png");
+                border-radius: 50px;
+                background-size: contain;
+                width: 100px;
+                height: 100px;
+                background-color: slateblue;
+		    position: absolute;
+            }
+        </style>
+    </head>
+    <body>
+        <div class = "dino"></div>
+    </body>
+</html>
